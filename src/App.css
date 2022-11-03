@@ -39,3 +39,8 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+h1 {
+  color: #fff;
+  margin-bottom: 20px;
+}
